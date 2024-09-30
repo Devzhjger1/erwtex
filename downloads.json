@@ -8,5 +8,5 @@
         "url": "https://example.com/file2.exe",
         "username_length": 10,
         "password_length": 15,
-    },
+    }
 }
