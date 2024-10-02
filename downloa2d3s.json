@@ -103,5 +103,6 @@
             "username_length": 10,
             "password_length": 15,
             "local": null
+         }
     }
 }
