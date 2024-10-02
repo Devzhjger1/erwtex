@@ -76,8 +76,8 @@
         }
     },
     "Roblox": {
-        "Outro Arquivo": {
-            "url": "https://example.com/outro-arquivo.exe",
+        "SolaraV3 (EXECUTOR)": {
+            "url": "https://store9.gofile.io/download/web/aa1ca059-f04e-4233-9c78-d2dcb31931d5/BootstrapperV1.18.exe",
             "username_length": 10,
             "password_length": 15,
             "local": null
@@ -97,6 +97,11 @@
             "username_length": 10,
             "password_length": 15,
             "local": null
-        }
+        },
+         "Xone (FREE)": {
+            "url": "https://store1.gofile.io/download/web/ebae3be2-b4d9-4327-a938-79e5a987600c/Ext._XONE_Free_1723710827.rar",
+            "username_length": 10,
+            "password_length": 15,
+            "local": null
     }
 }
