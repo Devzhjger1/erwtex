@@ -1,9 +1,18 @@
 {
     "Minecraft": {
         "Slinky (Injetavel)": {
-            "url": "https://example.com/slinky.exe",
+            "url": "https://example.com/load.exe",
             "username_length": 8,
             "password_length": 12,
-            "local": "path/to/local"
+            "local": null
         }
+    },
+    "FiveM": {
+        "Curso ScrenShare": {
+            "url": "https://example.com/Curso.rar",
+            "username_length": 10,
+            "password_length": 15,
+            "local": null
+        }
+    }
 }
