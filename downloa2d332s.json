@@ -53,6 +53,18 @@
             "username_length": 10,
             "password_length": 15,
             "local": null
+        },
+        "Bape (MOD)": {
+            "url": "https://store8.gofile.io/download/web/1bca4d79-c894-4344-a960-590cafe7450e/Vape.jar",
+            "username_length": 10,
+            "password_length": 15,
+            "local": null
+        },
+        "Nightx (MOD)": {
+            "url": "https://store2.gofile.io/download/web/cd7ed181-a443-4aef-a2cd-d941e47ba524/NightX-Client-1.8.9.jar",
+            "username_length": 10,
+            "password_length": 15,
+            "local": null
         }
     },
     "FiveM": {
