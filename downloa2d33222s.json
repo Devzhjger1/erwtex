@@ -134,5 +134,6 @@
       "password_length": 15,
       "local": null
     }
-  }
+  },
+  "teste": {}
 }
