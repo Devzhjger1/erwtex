@@ -33,5 +33,12 @@
         "ip": "172.18.144.1",
         "data_inicio": "12/10/2024-14:43",
         "data_final": "13/10/2024-14:43"
+    },
+    {
+        "key": "STORMTOOLS-WADDAN7X-ACCESS-12102024-1D",
+        "discord_id": "",
+        "ip": "192.168.3.18",
+        "data_inicio": "12/10/2024-14:43",
+        "data_final": "13/10/2024-14:43"
     }
 ]
