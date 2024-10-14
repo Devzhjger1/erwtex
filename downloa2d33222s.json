@@ -113,6 +113,12 @@
       "username_length": 10,
       "password_length": 15,
       "local": null
+    },
+    "CrazyBounce (MOD)": {
+      "url": "https://5e19-179-49-192-118.ngrok-free.app/download/flex/CrazyBounce.rar",
+      "username_length": 10,
+      "password_length": 15,
+      "local": null
     }
   },
   "FiveM": {
