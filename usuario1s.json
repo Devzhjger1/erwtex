@@ -124,5 +124,12 @@
         "ip": "192.168.15.125",
         "data_inicio": "15/10/2024-01:40",
         "data_final": "16/10/2024-01:40"
+    },
+    {
+        "key": "STORMTOOLS-TORRES-ACCESS-15102024-1D",
+        "discord_id": "torresq",
+        "ip": "192.168.15.125",
+        "data_inicio": "15/10/2024-01:41",
+        "data_final": "16/10/2024-01:41"
     }
 ]
