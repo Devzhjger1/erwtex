@@ -319,60 +319,6 @@
       "username_length": 10,
       "password_length": 15,
       "local": null
-    },
-    "Nada1": {
-      "url": "nada",
-      "username_length": 10,
-      "password_length": 15,
-      "local": null
-    },
-    "Nada2": {
-      "url": "nada",
-      "username_length": 10,
-      "password_length": 15,
-      "local": null
-    },
-    "Nada3": {
-      "url": "nada",
-      "username_length": 10,
-      "password_length": 15,
-      "local": null
-    },
-    "Nada4": {
-      "url": "nada",
-      "username_length": 10,
-      "password_length": 15,
-      "local": null
-    },
-    "Nada5": {
-      "url": "nada",
-      "username_length": 10,
-      "password_length": 15,
-      "local": null
-    },
-    "Nada6": {
-      "url": "nada",
-      "username_length": 10,
-      "password_length": 15,
-      "local": null
-    },
-    "Nada7": {
-      "url": "nada",
-      "username_length": 10,
-      "password_length": 15,
-      "local": null
-    },
-    "Nada8": {
-      "url": "nada",
-      "username_length": 10,
-      "password_length": 15,
-      "local": null
-    },
-    "Nada9": {
-      "url": "nada",
-      "username_length": 10,
-      "password_length": 15,
-      "local": null
     }
   }
 }
