@@ -1,1 +1,128 @@
-[]
+[
+    {
+        "key": "STORMTOOLS-WADDAN7X-ACCESS-12102024-1D",
+        "discord_id": "",
+        "ip": "192.168.3.18",
+        "data_inicio": "12/10/2024-14:41",
+        "data_final": "13/10/2024-14:41"
+    },
+    {
+        "key": "STORMTOOLS-DIEGO-ACCESS-14102024-1D",
+        "discord_id": "1284209545572520097",
+        "ip": "192.168.27.192",
+        "data_inicio": "15/10/2024-12:41",
+        "data_final": "17/10/2024-14:41"
+    },
+    {
+        "key": "STORMTOOLS-WADDAN7X-ACCESS-12102024-1D",
+        "discord_id": "",
+        "ip": "192.168.3.18",
+        "data_inicio": "12/10/2024-14:43",
+        "data_final": "13/10/2024-14:43"
+    },
+    {
+        "key": "STORMTOOLS-BRPRO-ACCESS-12102024-1D",
+        "discord_id": "KillerBrPro",
+        "ip": "26.34.47.171",
+        "data_inicio": "12/10/2024-19:44",
+        "data_final": "13/10/2024-19:44"
+    },
+    {
+        "key": "STORMTOOLS-JHK08-ACCESS-12102024-1D",
+        "discord_id": "jhk.08",
+        "ip": "26.149.183.211",
+        "data_inicio": "12/10/2024-19:22",
+        "data_final": "13/10/2024-19:22"
+    },
+    {
+        "key": "STORMTOOLS-JHK08-ACCESS-12102024-1D",
+        "discord_id": "jhk.08",
+        "ip": "26.149.183.211",
+        "data_inicio": "12/10/2024-19:26",
+        "data_final": "13/10/2024-19:26"
+    },
+    {
+        "key": "Keyparacolaboradorbaooooo_flex",
+        "discord_id": "1082090121500827699",
+        "ip": "192.168.1.29",
+        "data_inicio": "12/10/2024-23:40",
+        "data_final": "27/11/2025-23:40"
+    },
+    {
+        "key": "Keyparacolaboradorbaooooo_flex",
+        "discord_id": "1082090121500827699",
+        "ip": "192.168.1.29",
+        "data_inicio": "12/10/2024-23:42",
+        "data_final": "27/10/2025-23:42"
+    },
+    {
+        "key": "STORMTOOLS-PED4OK-ACCESS-13102024-30D",
+        "discord_id": "123344",
+        "ip": "26.184.168.79",
+        "data_inicio": "13/10/2024-12:21",
+        "data_final": "12/11/2024-12:21"
+    },
+    {
+        "key": "STORMTOOLS-Dark-ACCESS-13102024-1D",
+        "discord_id": "500064996047454218",
+        "ip": "26.190.18.217",
+        "data_inicio": "13/10/2024-11:41",
+        "data_final": "14/10/2024-11:41"
+    },
+    {
+        "key": "STORMTOOLS-Dark-ACCESS-13102024-1D",
+        "discord_id": "500064996047454218",
+        "ip": "26.190.18.217",
+        "data_inicio": "13/10/2024-11:44",
+        "data_final": "14/10/2024-11:44"
+    },
+    {
+        "key": "STORMTOOLS-FOXRED-ACCESS-13102024-7D",
+        "discord_id": "#8378",
+        "ip": "10.220.0.39",
+        "data_inicio": "13/10/2024-21:15",
+        "data_final": "20/10/2024-21:15"
+    },
+    {
+        "key": "STORMTOOLS-FARLYZIN-ACCESS-14102024-1D",
+        "discord_id": "1294057239585488926",
+        "ip": "26.66.153.229",
+        "data_inicio": "14/10/2024-22:21",
+        "data_final": "15/10/2024-22:21"
+    },
+    {
+        "key": "STORMTOOLS-FLACZAJQ-ACCESS-14102024-1D",
+        "discord_id": "flaczajq",
+        "ip": "26.21.235.88",
+        "data_inicio": "14/10/2024-22:23",
+        "data_final": "15/10/2024-22:23"
+    },
+    {
+        "key": "STORMTOOLS-DIEGO-ACCESS-14102024-1D",
+        "discord_id": "506083994681475073",
+        "ip": "192.168.51.44",
+        "data_inicio": "14/10/2024-22:38",
+        "data_final": "15/10/2024-22:38"
+    },
+    {
+        "key": "STORMTOOLS-DIEGO-ACCESS-14102024-1D",
+        "discord_id": "506083994681475073",
+        "ip": "192.168.51.44",
+        "data_inicio": "14/10/2024-22:42",
+        "data_final": "15/10/2024-22:42"
+    },
+    {
+        "key": "Exemplo_Key_123456789",
+        "discord_id": "1284209545572520097",
+        "ip": "192.168.1.118",
+        "data_inicio": "15/10/2024-13:04",
+        "data_final": "16/10/2024-13:04"
+    },
+    {
+        "key": "STORMTOOLS-TORRES-ACCESS-15102024-1D",
+        "discord_id": "torresq",
+        "ip": "192.168.15.125",
+        "data_inicio": "15/10/2024-15:56",
+        "data_final": "16/10/2024-15:56"
+    }
+]
